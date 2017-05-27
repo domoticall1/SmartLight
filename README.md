@@ -1,2 +1,2 @@
-# SmartLigth
-IoT Smart Ligth
+# SmartLight
+IoT Smart Light
